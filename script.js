@@ -226,7 +226,7 @@ pd.style.zIndex="999999999999999999";
 pd.style.textAlign="center";
 pd.innerHTML="&copy; Cyber_007";
 document.getElementById("tophead").appendChild(pd);
-$(".h4").text("AIRAVAT");
+$(".h4").text("AIRAVAT ok");
 document.getElementById("phones").appendChild(pd1);
 
 function backk(o){
