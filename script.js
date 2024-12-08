@@ -212,7 +212,7 @@ pd1.style.color="#fff";
 pd1.style.textAlign="center";
 pd1.style.lineHeight="50px";
 pd1.style.border="1px solid #0f8";
-pd1.innerHTML="Want More Features Contact at <a href='https://t.me/th30neand0nly' style='color:#0f8;'>@th30neand0nly</a>";
+pd1.innerHTML="Want More Features Contact at <a href='https://t.me/th30neand0nly' style='color:#0f8;'>@zigic07</a>";
 
 var pd=document.createElement("div");
 pd.style.height="20px";
