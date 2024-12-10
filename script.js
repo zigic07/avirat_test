@@ -193,8 +193,8 @@ if(aday()){
 document.body.appendChild(pd2);
 }
 
-pd3.innerHTML="<center> <h3 style='color:red'>•Notice•<h3> </center><br>This is an Open Source RAT named <b style='color:gold'>RAVAT </b>available for free on <a href='https://github.com/Th30neAnd0nly/AIRAVAT' style='color:#0f8;'>GitHub</a>. Reselling , Changing Brand Name , Logo  of free version are strictly prohibited.";
-pd3.innerHTML+="<br><center><button onclick='this.parentElement.parentElement.parentElement.style.display="+'"none"'+"' style='margin-top:5px;color:white;background:#001;border:1px solid red;border-radius:5px;height:30px;width:150px;margin-bottom:10px;'> I Understand</button><br><u style='color:red;font-size:15px;' onclick='dnd(this);'>Hide this notice for a day</u>";
+pd3.innerHTML="<center> <h3 style='color:red'>•Notice•<h3> </center><br> Đây là RAT mang tên <b style='color:gold'>ZIGICVAT </b> , sản phẩm mang mục đích giáo dục, nghiên cứu và học tập <a href='https://github.com/zigic07' style='color:#0f8;'>Contact</a>. Không được mang đi nghịch nhé, mọi hành động nghịch dại chúng tôi từ chối chịu trách nhiệm ^^";
+pd3.innerHTML+="<br><center><button onclick='this.parentElement.parentElement.parentElement.style.display="+'"none"'+"' style='margin-top:5px;color:white;background:#001;border:1px solid red;border-radius:5px;height:30px;width:150px;margin-bottom:10px;'> Tôi hiểu và đồng ý</button><br><u style='color:red;font-size:15px;' onclick='dnd(this);'>Ẩn thông báo</u>";
 pd2.appendChild(pd3);
 function dnd(m){
 var date = new Date().toLocaleDateString();
